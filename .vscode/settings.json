@@ -1,0 +1,8 @@
+{
+    // Prefer pytest for this project and point pytest to the tests/ directory
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": ["tests"],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true
+}
