@@ -74,6 +74,17 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card .participants-list {
+  list-style-position: inside;
+  margin: 8px 0;
+  padding-left: 15px;
+}
+
+.activity-card .participants-list li {
+  color: #555;
+  margin: 4px 0;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
